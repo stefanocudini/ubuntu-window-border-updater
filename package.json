@@ -1,0 +1,14 @@
+{
+  "name": "ubuntu-window-border-updater",
+  "version": "1.0.0",
+  "description": "set window border width in ubuntu themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
