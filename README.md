@@ -6,5 +6,5 @@ set window border width in ubuntu themes
 set window border to 10 pixel
 ```
 npm i
-node index.js /usr/share/themes/Ambiant-MATE/metacity-1/metacity-theme-1.xml 10
+sudo node index.js /usr/share/themes/Ambiant-MATE/metacity-1/metacity-theme-1.xml 10
 ```
